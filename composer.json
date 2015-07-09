@@ -1,5 +1,5 @@
 {
-  "name": "appitventures/phpgmaps",
+  "name": "Vict0r7/phpgmaps",
   "description": "",
   "authors": [
     {
@@ -18,9 +18,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-laravel4": "1.0-dev",
-      "dev-develop": "1.1-dev",
-      "dev-master": "1.0-dev"
+      "dev-master": "master"
     }
   },
   "minimum-stability": "stable"
