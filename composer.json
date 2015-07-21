@@ -5,11 +5,14 @@
     {
       "name": "Appit Ventures",
       "email": "michael@appitventures.com"
+    },{
+      "name": "Marnu Lombard",
+      "email": "marnu@marnulombard.com"
     }
   ],
   "require": {
     "php": ">=5.4.0",
-    "illuminate/support": "4.2.*"
+    "illuminate/support": "~5.1.0"
   },
   "autoload": {
     "psr-0": {

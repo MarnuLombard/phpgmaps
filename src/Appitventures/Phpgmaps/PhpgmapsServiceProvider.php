@@ -18,9 +18,7 @@ class PhpgmapsServiceProvider extends ServiceProvider {
 	 * @return void
 	 */
 	public function boot()
-	{
-		$this->package('appitventures/phpgmaps');
-	}
+	{}
 
 	/**
 	 * Register the service provider.
